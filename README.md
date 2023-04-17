@@ -10,6 +10,10 @@ Mentor: **Абрамян Михаил Эдуардович**
 
 ## Thesis
 
-[thesis](https://github.com/AllenOuyang/thesis)
+[thesis](https://github.com/leiluoo/thesis)
+
+## Presentations
+[Presentations](https://github.com/leiluoo/Presentations2023)
 
 ## Code
+[UnixTaskbook](https://github.com/leiluoo/unixTaskbook)
